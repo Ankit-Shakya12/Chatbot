@@ -1,0 +1,7 @@
+langchain
+langgraph
+langsmith
+langchain_openai
+python-dotenv
+langchain_tavily
+langchain-groq
